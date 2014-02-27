@@ -53,9 +53,45 @@ Hooking up the led.
 * 0.01 per led
 * 0.16 per battery
 * 0.07 per holder
-* 0.75 solderless breadboard
+* 0.75 solderless 
+* 0.02 mini tactile switch
+* 0.07 self locking switch
+* 0.03 vertical switch
 
 ### Links to Suppliers
+
+
+
+0.03 vertical stents 2pin tactile push button switch
+* http://www.aliexpress.com/item/6-6-5MM-push-button-switch-microswitch-Tact-Switch-With-stents-vertical-type/1017589981.html
+
+0.07 Blue self locking switch
+* http://www.aliexpress.com/item/8-8MM-6PIN-self-locking-Key-switch-Push-button-switch/1018485947.html
+
+0.07 long button swich 
+* http://www.aliexpress.com/item/100-x-Momentary-Tact-Tactile-Push-Button-Switch-4-Pin-DIP-Through-Hole-6x6x20mm/964690615.html
+
+0.13 3 pin bump switch
+* http://www.aliexpress.com/item/Free-Shipping-200PCS-LOT-push-button-switch-microswitch-Tact-Switch-3PIN-1A-125V-AC/729648158.html
+
+0.02 4 pin mini tactile push button switch  
+* http://www.aliexpress.com/item/6-6-5mm-4P-push-button-switch-microswitch-Tact-Switch-horizontal-type/1017407992.html
+
+0.03 2 pin normal mini tactile push button switch
+* http://www.aliexpress.com/item/1000pcs-6x6x5mm-Tact-Switch-Momentary-Tactile-Tact-Push-Button-Switch-Non-Lock-2-Pin-DIP-LS07/1252455691.html
+
+0.08 side view bage switch
+* http://www.aliexpress.com/item/Free-shipping-100pcs-6X6X5-Side-two-feet-Black-Mini-Push-Button-Switch-260G/1255399487.html
+
+0.07 side view creme switch
+* http://www.aliexpress.com/item/Free-shipping-3X6X5mm-100pcs-lot-2-pin-push-button-switch-side-two-feet-momentary-tact-switch/1255399892.html
+
+0.07 eeach moment
+* http://www.aliexpress.com/item/Free-shipping-100pcs-lot-2-pin-push-button-switch-momentary-tact-switch-3X6X5mm/1068908059.html
+
+
+0.08 self locking breadboard switch
+* http://www.aliexpress.com/item/8-5-8-5MM-6PIN-self-locking-Key-switch-Push-button-switch/1018526767.html
 
 0.75 solderless breadboard
 * http://www.aliexpress.com/item/free-shipping-30PCS-LOT-SYB-170-Mini-Solderless-Prototype-Experiment-Test-Breadboard-170-Tie-points-35/1668354493.html
