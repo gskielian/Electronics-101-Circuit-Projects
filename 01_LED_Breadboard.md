@@ -1,10 +1,14 @@
-LED-Light
+LED Breadboard
 =========
+
+The breadboard makes things more stable and able to connect tons of stuff and have a sticky side which is also really useful for making a light fixture.
 
 First get used to the breadboard, connecting many things to + and -.
 Then students will obtain jumpers.
 
-This led array will be much brighter, the goal is to light up 1x, then 4x, leds then  8x leds.
+Create a useful light which you can stick inside a box or the like.
+
+(up to you whether to include switches in this module or the next).
 
 ## Instructions:
 
@@ -52,9 +56,12 @@ Hooking up the led.
 * 0.01 per led
 * 0.16 per battery
 * 0.07 per holder
-* per solderless breadboard
+* 0.75 solderless breadboard
 
 ### Links to Suppliers
+
+0.75 solderless breadboard
+* http://www.aliexpress.com/item/free-shipping-30PCS-LOT-SYB-170-Mini-Solderless-Prototype-Experiment-Test-Breadboard-170-Tie-points-35/1668354493.html
 
 0.07 2032 holder
 * http://www.aliexpress.com/item/Free-Shipping-100pcs-CR2032-2032-Battery-Button-Cell-Coin-Holder-Socket-Case-Black/1274628252.html
