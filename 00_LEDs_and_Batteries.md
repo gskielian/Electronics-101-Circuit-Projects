@@ -34,7 +34,10 @@ The leds are different colors but they all look clear, check them with the coin 
 
 ### Links to Suppliers
 0.01 Green/blue/yellow/white
+
 * http://www.aliexpress.com/item/5Valuesx1000pcs-5000pcs-3mm-Round-Ultra-Bright-Red-Green-Blue-Yellow-White-LED-Lamp-kit/1630378407.html
 
-* 0.16 3V 2032 Coin Cell Battery
-http://www.aliexpress.com/item/Lithium-cr2032-electronic-battery-3v-button-cell-cr-battery-2032-button-cell-battery/1400443024.html
+
+0.16 3V 2032 Coin Cell Battery
+
+* http://www.aliexpress.com/item/Lithium-cr2032-electronic-battery-3v-button-cell-cr-battery-2032-button-cell-battery/1400443024.html
