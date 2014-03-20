@@ -1,4 +1,3 @@
-
 You don't need the light during the day -- Wouldn't it be great if it could switch itself off?
 
 
@@ -14,3 +13,6 @@ This is a simple sensor which only turns your flashlight on when the light is di
 
 
 generic 2n2222 transistor or equivalent --  0.01 (literally: [link](http://www.aliexpress.com/item/Free-Shipping-1000-PCS-SS8050D-TO-92-SS8050-8050D-NPN-General-Purpose-Transistors/1229786987.html) )
+
+
+photoresistor 2 cents - [link](http://www.aliexpress.com/item/Free-Shipping-2000-x-5528-Light-Dependent-Resistor-LDR-5MM-Photoresistor-wholesale-and-retail-Photoconductive-resistance/1359468672.html)
