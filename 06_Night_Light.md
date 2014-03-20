@@ -1,6 +1,15 @@
+
+You don't need the light during the day -- Wouldn't it be great if it could switch itself off?
+
+
+Transistors -- you've heard of them before.
+
+Give your circuit the power to turn itself on and off when it's needed.
+
+
+
+
 This is a simple sensor which only turns your flashlight on when the light is dim enough -- the same tech used for street lights.
-
-
 
 
 
