@@ -9,3 +9,8 @@ Materials:
 
 
 Miniaturize it and you can make a chameleon cloak : )
+
+
+Credits:
+
+Implementation of Brendan's idea via analog circuitry
